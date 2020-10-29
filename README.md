@@ -16,7 +16,7 @@ dockerd
 ```
 - Build Docker image:
 ```sh
-docker build . -t public-leech
+docker build . -t torrent-leech
 ```
 - Run the image:
 ```sh
@@ -33,8 +33,8 @@ You can still install all the dependencies in your system [with ROOT permissions
 Simply clone the repository and run the main file:
 
 ```sh
-git clone https://github.com/SpEcHiDe/PublicLeech.git
-cd PublicLeech
+git clone https://github.com/Kirodewal/TorrentLeech.git
+cd torrentleech
 python3 -m venv venv
 . ./venv/bin/activate
 pip install -r requirements.txt
