@@ -10,7 +10,7 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kirodewal/torrentleech)
  
 
-### The Eas(iest) Way
+### The Easiest Way
 
 - Install Docker by following the [official docker docs](https://docs.docker.com/engine/install/debian/)
 
