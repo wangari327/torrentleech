@@ -20,7 +20,7 @@ docker build . -t torrent-leech
 ```
 - Run the image:
 ```sh
-docker run public-leech
+docker run torrent-leech
 ```
 
 It is not recommended to use "sudo", un-necessarily, in a GNU/Linux system.
